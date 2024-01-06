@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vesito",
+  "private_key_id": "284096f577dd103d0d3d33c6e6eba25e0c8b9edb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf6mDcdnVMGHJa\n1yv4wbK8Ecasph7l7dzxgc8S9pOtLO7AvMxZvmS7jYbSwZU5GFWNdCxiNtv1HWAr\nNoewTE9P46BD8VrPNSsvl/qiAkeDB/bukhUWW30Yy+lp/9wOpdEe8A5dq+eo0c3y\nQmZVvnQ6CvBzpcILs5ijGN6qzwNXZZCFmEeG5jWpyoO6NMTtwvfrgpa6c1lY+UQ9\nSCQ/hZjx8wldgDTgGdnmkNk/lFX4YNh7jSWvcGU7O1s6IwIAsZDO63xoF3stF2Vv\n4o9KwkIkwK1E2aEHe5qyXlQqpbhvL4o4M/faddBfFjL0KQLsTL6X1VBtPmTV5GSN\nqawgVTvnAgMBAAECggEAPU/YeU51pIpO9eM/ua1SQOcz3CgI+rEbIAFcCnI9pozu\nsTjxxIrKBlq50X5lHzHkQ0rCZZmQ9cagg5DxrzdixUeJv+L+pSlGeIX1kz36exOH\nqmqZ6SuEqAguYvS1Q2xx5EG30FRDiqd+JZ8tqzxNRZ/CFyT7ZA8ku4uie6zJJC1y\nXfdTrQ+jkEKvE5/5XmWZsPxcfJZgQUXFVV1ifPjTNpI9bSjJ1pODDIK6w4vPtC7w\nNOhcLcdvYVCOBICSTfW1yrWMifImALE+Gktgva++vm9xDoomTm/0Hk/MDGaWycr7\nASN0hG1IedIpm9AmZsr8/7Ds8uu0JBJPsD0xI1ceIQKBgQDRx+PTz5Mbay0s2Q5p\n+Us5kx6S1iZ/3SOhLP31UFPoLTvbFnKEOhrw/ddRGolY7UjyCPwdwQ6hTVVo5Gn3\ncy1wSuCkbF2f468/C2YkQQi/9X4jz61Xq677JSbBFpJNf85kK5+vVBSH90Fs1k+n\n8oA4vBgajKD+lkM90PHrUiuUtwKBgQDDJfl4h/yg51RTtTJ9U4jZRE8ieji6uAQm\nevvjX+yAEIgm4HdCuUdNFGTQU1pSXrOk1jjfCL4pMVrx7T8e16VINxETjIZGJyGO\nxpqlck/sYpDmX+sQIBAf+MPaUAb0oBOZCE5AuNBYiu7u1D3PLFv0gYXhu/ilCn5C\nT6djEWxCUQKBgByTLM5qRPCELdghDNyUj5GdH5oCv6XFGphWx5UFxxgmKTQTn6+x\nNoBDI3QxuCm70KbfYHAxHuwL26l5C5IgRz03hdf/xtUDr5hX1ib0ENwM9YytOkBp\n62DcU6YTjAQwd42ff5XjTxSiMnA/1QPcfWi8/k+HflqPX0NpVbqnK7aLAoGAbTTc\nFcJr8pNiEnINLitIIuXiLxYclwkRcYNTYJu2mrglqTPmKZXLu+vUuuxaWEwc1fr3\n2oBnAmBXV5l/wD/Hg9ElIj56idmuItsrgbil11AVbIZy4hQ/UdUBrTMpoU3Pic0n\nFXsXROWC7m4hpMVbNEojZP6vF5T2sR8oOf1vCvECgYB1hnd8EWUB9tfLtWyxEpsM\npwJwG7bZGifF6jBrrQdCvnUgW5dT/Obk2oY0Wh4rwrFVsP1wNdPJYCX5R4ktN2t9\n/7OKIheIpS9XB1qUR2w2ouDTmifyGjxXHm9j1ZmSa5YDVTsg6x8wc+bFzFs6ExLE\n0YXJZxU/L3IDKhdwkth27Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vesito-driver-upload@vesito.iam.gserviceaccount.com",
+  "client_id": "111532664516555787007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vesito-driver-upload%40vesito.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
