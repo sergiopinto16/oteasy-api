@@ -13,7 +13,7 @@
     "nodemailer": "^6.9.3",
     "react-router-dom": "^6.6.1"
   },
-  "name": "api",
+  "name": "oteasy-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
