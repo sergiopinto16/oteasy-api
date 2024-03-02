@@ -1,11 +1,31 @@
 version: '3'
 services:
-  app:
-    build: .
+  mongodb-db:
+    image: mongo:6.0.1
+    container_name: oteasy-mongodb-db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: rootpassword
+    ports:
+      - 27017:27017
     volumes:
-      - .:/app
+      - oteasy_mongodb_data_cont:/data/db
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - app_data_cont:/app
     container_name: oteasy-api
     restart: always
     ports:
       - 3010:3010
     env_file: .env
+    depends_on:
+      - mongodb-db
+
+
+volumes:
+  app_data_cont:
+  oteasy_mongodb_data_cont:

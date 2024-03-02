@@ -50,10 +50,13 @@ app.use('/api/spm/', spmRoutes)
 app.use('/api/sessionReport/', sessionReportRoutes)
 app.use('/api/upload/', uploadRoutes)
 
+options = {
+    useNewUrlParser: true
+};
 
 //app.listen(3010);
 // connect to db
-mongoose.connect(process.env.MONGO_URI)
+mongoose.connect(process.env.MONGO_URI, options)
     .then(() => {
         // listen for requests
         app.listen(process.env.PORT, () => {
